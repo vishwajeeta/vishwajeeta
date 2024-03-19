@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vishwajeet</h1>
 <h3 align="center">A passionate web and blockchain developer from India</h3>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://vishwajeeta.github.io/portfolio/](https://vishwajeeta.github.io/portfolio/)
 
