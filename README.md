@@ -12,6 +12,8 @@
 - 📫 How to reach me **chainblockasvsi@gmail.com**
 
 - 📄 Know about my experiences [https://vishwajeeta.github.io/resume.gitbub.io/](https://vishwajeeta.github.io/resume.gitbub.io/)
+  
+- 📝 sample smart contracts [https://github.com/vishwajeeta/All-in-one-Blockchain-projects-and-samples-/](https://github.com/vishwajeeta/All-in-one-Blockchain-projects-and-samples-/)
 
 <!-- - ⚡ Fun fact **most of the give-up half a way and on other half re-start them** -->
 
