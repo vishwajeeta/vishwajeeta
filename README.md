@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [https://b-project-nine.vercel.app/](https://b-project-nine.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-chi-inky-28.vercel.app/](https://portfolio-chi-inky-28.vercel.app/)
 
 - 📝 I regularly write articles on [https://vishwabha.blogspot.com/](https://vishwabha.blogspot.com/)
 
