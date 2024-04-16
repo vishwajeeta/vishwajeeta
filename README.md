@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vishwajeet</h1>
 <h3 align="center">A passionate Software and Blockchain developer from India</h3>
 
-- 🌱 I am presently engaged in studying ***Blockchain Development***
+- 🌱 I am presently engaged in studying **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-chi-inky-28.vercel.app/](https://portfolio-chi-inky-28.vercel.app/)
 
