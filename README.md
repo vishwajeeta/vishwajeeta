@@ -41,3 +41,4 @@
 <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"><img src="https://book.getfoundry.sh/images/foundry-banner.png" alt="foundry" width="40" height="40"> </a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="foundry" width="40" height="40"> </a>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeeta&show_icons=true&locale=en&layout=compact" alt="vishwajeeta" /></p>
