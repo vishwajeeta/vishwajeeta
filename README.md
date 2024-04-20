@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vishwajeet</h1>
-<h3 align="center">A passionate Software and Blockchain developer from India</h3>
+<h3 align="center">A passionate Blockchain and Application developer from India</h3>
 
 - 🌱 I am presently engaged in studying **Blockchain Development**
 
@@ -7,9 +7,9 @@
 
 - 📝 I regularly write articles on [https://vishwabha.blogspot.com/](https://vishwabha.blogspot.com/)
 
-- 💬 Ask me about **web3 ,django,next.js**
+- 💬 Ask me about **solidity,django,next.js**
 
-- 📫 How to reach me **chainblockasvsi@gmail.com**
+- 📫 How to reach me **secureblockasvsi@gmail.com**
 
 - 📄 Know about my experiences [https://vishwajeeta.github.io/resume.gitbub.io/](https://vishwajeeta.github.io/resume.gitbub.io/)
   
