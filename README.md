@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vishwajeet</h1>
 <h3 align="center">A passionate Blockchain and Application developer from India</h3>
 
-- 🌱 I am presently engaged in studying **Smart contract Auditing**
+- 🌱 I am presently engaged in Learning **Smart contract Auditing**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-chi-inky-28.vercel.app/](https://portfolio-chi-inky-28.vercel.app/)
 
