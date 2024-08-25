@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vishwajeet</h1>
-<h3 align="center">A passionate Blockchain and web developer from India</h3>
+<h3 align="center">A passionate Blockchain and web3.0 developer from India</h3>
 
 - 🌱 I am presently engaged in Learning **Smart contract Development & Auditing**
 
