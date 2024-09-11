@@ -41,8 +41,3 @@
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="foundry" width="40" height="40"> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeeta&show_icons=true&locale=en&layout=compact" alt="vishwajeeta" /></p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vishwajeet-blockchain-devloper" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vishwajeet-blockchain-devloper?trk=profile-badge">Vishwajeet Sharma</a></div>
-              
