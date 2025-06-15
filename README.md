@@ -3,7 +3,7 @@
 
 - 🌱 I am presently engaged in Learning **Smart contract Development & Auditing**
 
-- 👨‍💻 All of my projects are available at [https://vishwajeetportfolio.vercel.app/](vishwajeet Portfolio)
+- 👨‍💻 All of my projects are available at [Vishwajeet Portfolio](https://vishwajeetportfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://vishwabha.blogspot.com/](https://vishwabha.blogspot.com/)
 
