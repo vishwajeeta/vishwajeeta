@@ -62,7 +62,7 @@
 🤝 **Available for**: Smart Contract Audits, Web3 Development, and Open-Source Collabs
 
 <p align="center">
-  <a href="https://twitter.com/asvsiofficial"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/vfx39598854"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vishwajeet-blockchain-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-chi-inky-28.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
