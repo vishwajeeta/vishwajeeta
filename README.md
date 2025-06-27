@@ -51,3 +51,26 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeeta&show_icons=true&locale=en&layout=compact" alt="vishwajeeta" /></p>
+
+
+
+---
+
+> *"Build with vision. Secure with precision."* — Vishwajeet
+
+💌 **Reach me**: [secureblockasvsi@gmail.com](mailto:secureblockasvsi@gmail.com)  
+🤝 **Available for**: Smart Contract Audits, Web3 Development, and Open-Source Collabs
+
+<p align="center">
+  <a href="https://twitter.com/asvsiofficial"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vishwajeeta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-chi-inky-28.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-blueviolet?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishwajeeta&style=flat&color=blue" alt="Profile Views" />
+</p>
+
+<p align="center">
+  🛡️ Crafted with Solidity, Foundry, and ❤️ by Vishwajeet.
+</p>
