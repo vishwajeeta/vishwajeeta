@@ -11,6 +11,9 @@
   
 - 📝 sample smart contracts [https://github.com/vishwajeeta/All-in-one-Blockchain-projects-and-samples-/](https://github.com/vishwajeeta/All-in-one-Blockchain-projects-and-samples-/)
 
+
+- 📝 sample Web3 project [https://github.com/vishwajeeta/DPSS/](https://github.com/vishwajeeta/DPSS/)
+- 
 <!-- - ⚡ Fun fact **most of the give-up half a way and on other half re-start them** -->
 
 <h3 align="left">Connect with me:</h3>
