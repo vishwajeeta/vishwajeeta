@@ -40,7 +40,12 @@
 
   <p align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity" />
-  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=ethereum" />
+  <!-- Foundry -->
+  <img src="https://img.shields.io/badge/Foundry-%23e95420.svg?style=flat&logo=fire&logoColor=white" alt="Foundry" />
+
+  <!-- Remix IDE -->
+  <img src="https://img.shields.io/badge/Remix%20IDE-1E1E1E?style=flat&logo=ethereum&logoColor=white" alt="Remix IDE" />
+    <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=ethereum" />
   <img src="https://img.shields.io/badge/IPFS-0066CC?style=flat&logo=ipfs" />
 </p>
 
