@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm vishwajeet</h1>
+<h1 align="center">Hi, I'm vishwajeet 👋</h1>
 <h3 align="center">A passionate Blockchain and web3.0 developer from India</h3>
+
+I'm a Web3 & DeFi developer learning by building. I work with Solidity, Foundry, and Next.js to create secure, real-world dApps. Currently exploring smart contract auditing, zero-knowledge privacy, and DeFi systems. Open to collaborations, internships, or freelance work in the Web3 space.
 
 - 🔭 Currently learning: Smart Contract Development & Auditing
 - 💻 Projects: https://vishwajeetportfolio.vercel.app/
